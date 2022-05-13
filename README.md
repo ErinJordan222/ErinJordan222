@@ -7,9 +7,7 @@
 ## I am currently attending Denver University- Coding Bootcamp. <br>
 ## I have completed coursework in HTML, CSS, Javascript [including Node.js, Express.js. and React.js]. I have also completed coursework using Mysql, Mysql Workbench, Insomnia, Heroku and Mongoose. I am to transition these skills into designing websites for clients. As an enthusiastic communicator and quick learner, I am excited to work on projects’ as a Full Stack Web Developer.
 
-
-![keyboard](https://user-images.githubusercontent.com/92272866/168208727-557930be-c708-406e-9439-1ed913b2494c.jpg)
-
+![keyboard](https://user-images.githubusercontent.com/92272866/168208920-22c13d71-41e4-4c47-aa3c-592468232d7f.jpg)
 
 ## ⛓ My Links
 * <a href=https://www.linkedin.com/in/erin-jordan-6b58a51a0/>LinkedIn</a> <br>
@@ -36,6 +34,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![keyboard](https://user-images.githubusercontent.com/92272866/168208920-22c13d71-41e4-4c47-aa3c-592468232d7f.jpg)
