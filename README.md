@@ -10,6 +10,9 @@
 * <a href="https://docs.google.com/document/d/18Pn1AhG1UqE-DTjAZ8Akk-5OmIOflbFkg3u6J7HJ3Cc/edit">Resume</a> <br>
 
 ## Contact
+<a href="https://erinjordan2790@gmail.com">Email</a> 
+<a href="tel:8104447591">Phone</a>
+
 <!--
 **ErinJordan222/ErinJordan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
