@@ -2,7 +2,7 @@
 
 ![keyboard](https://user-images.githubusercontent.com/92272866/168208920-22c13d71-41e4-4c47-aa3c-592468232d7f.jpg)
 
-## I am currently attending Denver University- Coding Bootcamp. <br>
+## I am currently attending Denver University- Coding Bootcamp.
 ## I have completed coursework in HTML, CSS, Javascript [including Node.js, Express.js. and React.js]. I have also completed coursework using Mysql, Mysql Workbench, Insomnia, Heroku and Mongoose. I am to transition these skills into designing websites for clients. As an enthusiastic communicator and quick learner, I am excited to work on projects’ as a Full Stack Web Developer.
 
 ## ⛓ My Links
