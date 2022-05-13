@@ -3,9 +3,8 @@
 ## I am currently attending Denver University- Coding Bootcamp. <br>
 ## I have completed coursework in HTML, CSS, Javascript [including Node.js, Express.js. and React.js]. <br>
 ## I have also completed coursework using Mysql, Mysql Workbench, Insomnia, Heroku and Mongoose. <br>
-## I am excited to transition these skills into designing websites <br>
-## for clients. As an enthusiastic communicator and quick learner, <br>
-## I am excited to work on projects’ as a Full Stack Web Developer.
+## I am excited to transition these skills into designing websites for clients. <br>
+## As an enthusiastic communicator and quick learner, I am excited to work on projects’ as a Full Stack Web Developer.
 
 ## 
 * <a href=https://www.linkedin.com/in/erin-jordan-6b58a51a0/>LinkedIn</a> <br>
