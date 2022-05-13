@@ -8,7 +8,7 @@
 * <a href=https://www.linkedin.com/in/erin-jordan-6b58a51a0/>LinkedIn</a> <br>
 * <a href="https://github.com/ErinJordan222">GitHub</a> <br>
 * <a href="https://erinjordan222.github.io/Portfolio/">Portfolio</a> <br>
-* <a href="https://docs.google.com/document/d/18Pn1AhG1UqE-DTjAZ8Akk-5OmIOflbFkg3u6J7HJ3Cc/edit">Resume</a> <br>
+* <a href="https://docs.google.com/document/d/18Pn1AhG1UqE-DTjAZ8Akk-5OmIOflbFkg3u6J7HJ3Cc/edit?usp=sharing">Resume</a> <br>
 
 ## Contact:
 * <a href="https://erinjordan2790@gmail.com">Email</a> 
