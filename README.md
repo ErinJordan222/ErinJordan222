@@ -1,6 +1,4 @@
-# Hello World! <br>
-# My name is Erin Jordan <br> #
-# & I am an inspiring Full Stack Web Developer.
+# My name is Erin Jordan & I am an inspiring Full Stack Web Developer.
 
 ![keyboard](https://user-images.githubusercontent.com/92272866/168208920-22c13d71-41e4-4c47-aa3c-592468232d7f.jpg)
 
