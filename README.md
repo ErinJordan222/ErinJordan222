@@ -1,5 +1,18 @@
-### Hi there 👋
+# Hello World! My name is Erin Jordan & I am an inspiring Full Stack Web Developer.
 
+## I am currently attending Denver University- Coding Bootcamp. 
+I have completed coursework in HTML, CSS, Javascript [including Node.js, Express.js. and React.js].
+I have also completed coursework using Mysql, Mysql Workbench, Insomnia, Heroku and Mongoose.
+I am excited to transition these skills into designing websites
+for clients. As an enthusiastic communicator and quick learner,
+I am excited to work on projects’ as a Full Stack Web Developer.
+
+## 
+* <a href=https://www.linkedin.com/in/erin-jordan-6b58a51a0/>LinkedIn</a> <br>
+* <a href="https://github.com/ErinJordan222">GitHub</a> <br>
+* <a href="https://erinjordan222.github.io/Portfolio/">Portfolio</a> <br>
+* <a href="https://docs.google.com/document/d/18Pn1AhG1UqE-DTjAZ8Akk-5OmIOflbFkg3u6J7HJ3Cc/edit">Resume</a> <br>
+## Contact
 <!--
 **ErinJordan222/ErinJordan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
