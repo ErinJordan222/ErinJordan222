@@ -15,7 +15,7 @@
 
 ## Contact
 <a href="https://erinjordan2790@gmail.com">Email</a> 
-<a href="tel:8104447591">Phone</a>
+<!-- <a href="tel:8104447591">Phone</a> -->
 
 <!--
 **ErinJordan222/ErinJordan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
