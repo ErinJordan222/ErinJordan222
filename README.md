@@ -14,3 +14,5 @@ Contact:
 * <a href="https://erinjordan2790@gmail.com">Email</a>
 * <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
 * Call me at: 810-444-7591
+
+<img src='./githubpicture.jpg'/>
