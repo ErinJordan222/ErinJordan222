@@ -11,7 +11,7 @@ Javascript, JSON, Node.js, Express.js, React.js <br>
 MySQL, Workbench, Insomnia, E-Commerce.
 
 Contact:
-* <a href="https://erinjordan2790@gmail.com">Email</a>
+* <a href="https://erinjordandeveloper@gmail.com">Email</a>
 * <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
 * Call me at: 810-444-7591
 
