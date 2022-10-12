@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi! My name is Erin Jordan & I am a full stack web developer presuring pressuring to become a front end web developer. <br>
 
-<!--
-**ErinJordan222/ErinJordan222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am excited to transition these skills into designing websites for clients. <br>
+As an enthusiastic communicator and quick learner, <br>
+I am excited to work on projects’ as a Full Stack Web Developer.
 
-Here are some ideas to get you started:
+* I have successfully completed Denver University- Coding bootcamp course. <br>
+* My skills include: <br>
+HTML, Bootstrap, CSS Flexbox, Bulma (CSS Framework) <br>
+Javascript, JSON, Node.js, Express.js, React.js <br>
+MySQL, Workbench, Insomnia, E-Commerce.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact:
+* <a href="https://erinjordan2790@gmail.com">Email</a>
+* <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
+* Call me at: 810-444-7591
