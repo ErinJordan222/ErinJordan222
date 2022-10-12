@@ -12,7 +12,7 @@ MySQL, Workbench, Insomnia, E-Commerce.
 
 Contact:
 * Email me at erinjordandeveloper@gmail.com
-* Message me at my<a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
+* Message me at my <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
 * Call me at: 810-444-7591
 
 <img src='./githubpicture.jpg'/>
