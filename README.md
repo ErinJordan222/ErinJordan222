@@ -15,4 +15,4 @@ Contact:
 * <a href="https://www.linkedin.com/in/erin-jordan-6b58a51a0/">LinkedIn</a>
 * Call me at: 810-444-7591
 
-<img src='./githubpicture.jpg'/>
+<img src='./githubpicture.jpg' style='width: 55%; height:'75%'/>
