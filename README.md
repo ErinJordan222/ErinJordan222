@@ -1,4 +1,4 @@
-Hi! My name is Erin Jordan & I am a full stack web developer presuring pressuring to become a front end web developer. <br>
+Hi! My name is Erin Jordan & I am a full stack web developer pressuring to become a front end web developer. <br>
 
 I am excited to transition these skills into designing websites for clients. <br>
 As an enthusiastic communicator and quick learner, <br>
@@ -6,7 +6,7 @@ I am excited to work on projects’ as a Full Stack Web Developer.
 
 * I have successfully completed Denver University- Coding bootcamp course. <br>
 * My skills include: <br>
-HTML, Bootstrap, CSS Flexbox, Bulma (CSS Framework) <br>
+HTML5, Bootstrap, CSS Flexbox, Bulma (CSS Framework) <br>
 Javascript, JSON, Node.js, Express.js, React.js <br>
 MySQL, Workbench, Insomnia, E-Commerce.
 
